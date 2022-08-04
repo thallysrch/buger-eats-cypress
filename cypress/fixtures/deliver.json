@@ -1,0 +1,50 @@
+{
+    "signup":{
+        "name": "Thallys Rocha",
+        "cpf": "68566690036",
+        "email": "rocha@hotmail.com",
+        "whatsapp": "4699876615",
+        "address":{
+        "postalcode": "85501049",
+        "street": "Rua Ibiporã",
+        "number": "1151",
+        "details": "Ap 103",
+        "district": "Centro",
+        "city_state": "Pato Branco/PR"
+        },
+        "delivery_method": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv":{
+        "name": "Herica",
+        "cpf": "685666900AA",
+        "email": "herica@hotmail.com",
+        "whatsapp": "4699876615",
+        "address":{
+        "postalcode": "85501049",
+        "street": "Rua Ibiporã",
+        "number": "1151",
+        "details": "Ap 103",
+        "district": "Centro",
+        "city_state": "Pato Branco/PR"
+        },
+        "delivery_method": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv":{
+        "name": "Rocha",
+        "cpf": "68566690036",
+        "email": "rocha.com.br",
+        "whatsapp": "4699876615",
+        "address":{
+        "postalcode": "85501049",
+        "street": "Rua Ibiporã",
+        "number": "1151",
+        "details": "Ap 103",
+        "district": "Centro",
+        "city_state": "Pato Branco/PR"
+        },
+        "delivery_method": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+    }
+}
